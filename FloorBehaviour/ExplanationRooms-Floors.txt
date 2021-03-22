@@ -1,0 +1,1 @@
+This one is for the most recent personal projects developing with some friends. It spawn rooms, items and enemies. We don't like procedural system so much, we prefer some standard random variations. Player make the transition between rooms as well. I am still polishing it, but I am happy with the result at the moment.
