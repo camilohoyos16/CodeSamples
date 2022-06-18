@@ -1,3 +1,5 @@
-Here you can find the AI Enemies System, for the moment I have used a simple state machine but I think it could be extended to take some ideas some GOAP system. Something to change here I could merge EnemyController and EnemyBehaviour since it is quit the same thing. I implemented a quad tree to allow the game to have a lot of zombies around the city.
+Here you can find the AI Enemies System, for the moment I have used a simple state machine but I think it could be extended to something alike to GOAP system.
+Something it could be changed here is merge EnemyController and EnemyBehaviour since it is quit the same thing. I implemented a quad tree to allow the game to have a 
+big amount of zombies around the city.
 
-This was just the first implementation for a project
+This was just the first interation in the implementation. The project got cancelled.
