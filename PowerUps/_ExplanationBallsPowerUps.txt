@@ -1,1 +1,3 @@
-This is a little system for stopped project, and it has a power ups (in this case was balls like bullets) so we talked about take the ball throwing split from the effect, because we were thinking in make complex ball shooting and complex ball effects. It was a first iteration for the system.
+This is a little system for a cancelled project. It was a different approach to the popular
+school game Dodgeball. We were trying to implement a generic Balls system to add, late, 
+different kind of balls and effects.
