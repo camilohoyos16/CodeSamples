@@ -1,5 +1,5 @@
 Here is the boos' attack system to one of our projects. 
-He we implemented  the Template Method design pattern. 
+Here we implemented  the Template Method design pattern. 
 We defined a base 'BossAttack' class with a define steps to follow:
 	- Init,
 	- Update,
@@ -8,6 +8,6 @@ We defined a base 'BossAttack' class with a define steps to follow:
 	- Update,
 	- RecoverAttack.
 
-All of this is neccesary to take control about when the attack is used, reloading and available to use again, but each specific attack control the way it accomplish these steps and, more important, the special attack.
+All of this is neccesary to take control about when the attack is used, reloading and available to use again, but each specific attack control their own way to accomplish these steps and, more important, the special attack.
 
-At the moment I am sending this we just have 1 attack, called pecueca.
+At the moment I am sending this we just have 1 attack, called "pecueca".
